@@ -4,6 +4,7 @@
 ![](https://media.giphy.com/media/xGIzWN1IdzIhW/giphy.gif)
 
 ##Getting Set Up
+doing push
 
 ##Good First Bugs
 
